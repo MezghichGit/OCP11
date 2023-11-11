@@ -1,6 +1,6 @@
 package chapite12_annotation;
 
-@Exercise("foot") 
+@Exercise("cc") 
 public class Cheetah {
 
 }

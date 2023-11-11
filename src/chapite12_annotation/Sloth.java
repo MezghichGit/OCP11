@@ -1,6 +1,12 @@
 package chapite12_annotation;
 
-@Exercise(hoursPerDay=3)
+@Exercise("abc")
+
 public class Sloth {
 
+	@ZooAttraction
+	public Sloth() {}
+	
+	@ZooAttraction
+	public void info() {}
 }
